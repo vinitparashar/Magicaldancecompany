@@ -1,0 +1,7 @@
+
+body{background:#0b0b0b;color:#fff} .navbar{background:#000}
+.hero{height:100vh;display:flex;align-items:center;background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),url('https://images.unsplash.com/photo-1511578314322-379afb476865?w=1600');background-size:cover}
+.btn-gold{background:#d4af37;color:#000}
+.card{background:#151515;color:#fff;border:1px solid #d4af37}
+.stats{background:#111;padding:60px 0}
+.whatsapp{position:fixed;right:20px;bottom:20px;font-size:40px;color:#25d366}
